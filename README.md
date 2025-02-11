@@ -63,8 +63,8 @@ ecommerce developmente in PHP
 
 Feel free to explore my repositories and contribute your ideas. If you are interested in collaborating or want to discuss new opportunities, reach out:
 
-📧 **Email**: [youremail@domain.com](mailto:maelson@manalyticsai.com)  
-🌐 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/maelson-marques-620896101/)
+📧 **Email**: [maelson@manalyticsai.com](mailto:maelson@manalyticsai.com)  
+🌐 **LinkedIn**: [https://www.linkedin.com/in/maelson-marques-620896101/](https://www.linkedin.com/in/maelson-marques-620896101/)
 
 ---
 
