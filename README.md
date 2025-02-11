@@ -25,7 +25,7 @@ Advanced chatbot system using Langchain, OpenAI, and FAISS for document consulta
 ### 📊 [Healthcare Demand Prediction](https://github.com/LGPDNOW/SAUDE_ANALYSER)
 Predictive model to estimate demand for healthcare services in emergency care units (UPAs).
 
-### 🌐 [Automated Analysis with H2O.ai](https://github.com/maellson/h2o_genai_training)()
+### 🌐 [Automated Analysis with H2O.ai](https://github.com/maellson/h2o_genai_training)
 Machine learning pipeline for analysis and forecasting using the H2O.ai platform.
 
 ### 🗺️ [FastAPi Connect](https://github.com/maellson/fastAPIconnect)
